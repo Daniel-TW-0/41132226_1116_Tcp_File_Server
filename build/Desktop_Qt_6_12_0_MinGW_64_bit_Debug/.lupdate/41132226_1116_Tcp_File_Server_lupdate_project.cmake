@@ -1,0 +1,11 @@
+set(lupdate_project_file "C:/Qt_example/41132226_1116_Tcp_File_Server/CMakeLists.txt")
+set(lupdate_translations "C:/Qt_example/41132226_1116_Tcp_File_Server/41132226_1116_Tcp_File_Server_zh_TW.ts")
+set(lupdate_include_paths "")
+set(lupdate_sources "")
+set(lupdate_subproject_count 1)
+
+set(lupdate_subproject1_source_dir "C:/Qt_example/41132226_1116_Tcp_File_Server")
+set(lupdate_subproject1_include_paths "C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/41132226_1116_Tcp_File_Server_autogen/include;C:/Qt/6.12.0/mingw_64/include/QtCore;C:/Qt/6.12.0/mingw_64/include;C:/Qt/6.12.0/mingw_64/mkspecs/win32-g++;C:/Qt/6.12.0/mingw_64/include;C:/Qt/6.12.0/mingw_64/include/QtWidgets;C:/Qt/6.12.0/mingw_64/include;C:/Qt/6.12.0/mingw_64/include/QtGui;C:/Qt/6.12.0/mingw_64/include")
+set(lupdate_subproject1_sources "C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/41132226_1116_Tcp_File_Server_autogen/mocs_compilation.cpp;main.cpp;tcpfileserver.cpp;tcpfileserver.h;C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/41132226_1116_Tcp_File_Server.exe.manifest;C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/41132226_1116_Tcp_File_Server_translations.qrc;C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/41132226_1116_Tcp_File_Server_zh_TW.qm;C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_41132226_1116_Tcp_File_Server_translations.cpp;C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/41132226_1116_Tcp_File_Server_autogen/timestamp;C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/41132226_1116_Tcp_File_Server_zh_TW.qm.rule;C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/.qt/rcc/qrc_41132226_1116_Tcp_File_Server_translations.cpp.rule;C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/41132226_1116_Tcp_File_Server_autogen/timestamp.rule")
+set(lupdate_subproject1_excluded "")
+set(lupdate_subproject1_autogen_dir "C:/Qt_example/41132226_1116_Tcp_File_Server/build/Desktop_Qt_6_12_0_MinGW_64_bit_Debug/41132226_1116_Tcp_File_Server_autogen")
